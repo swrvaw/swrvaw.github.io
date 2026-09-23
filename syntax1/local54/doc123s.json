@@ -1,302 +1,302 @@
 [
   {
     "id": "q1",
-    "question": "Which of the following official provide technical assistance and liaison between Railways and CBI?",
+    "question": "What is phishing?",
     "options": [
-      "IPF",
-      "CVI",
-      "RSO",
-      "SSO"
+      "A hacking technique to steal passwords",
+      "A fishing method",
+      "A data backup process",
+      "A coding style"
     ],
-    "answer": "RSO",
+    "answer": "A hacking technique to steal passwords",
     "timeLimit": 45
   },
   {
     "id": "q2",
-    "question": "The IPR should contain details of:",
+    "question": "What is the main purpose of a firewall?",
     "options": [
-      "Location, nature, extent, and value of property",
-      "Source of acquisition",
-      "Name of joint holder, if any",
-      "All of the above"
+      "To block viruses",
+      "To monitor power supply",
+      "To control network traffic",
+      "To store data securely"
     ],
-    "answer": "All of the above",
+    "answer": "To control network traffic",
     "timeLimit": 45
   },
   {
     "id": "q3",
-    "question": "Under Indian Railway Vigilance Manual 2018, the Vigilance Angle is said to exist when:",
+    "question": "Which of the following is a strong password?",
     "options": [
-      "Procedural lapse without malafide",
-      "There is suspicion of personal gain or corrupt motive",
-      "A file is delayed due to workload",
-      "Audit points out procedural lapses"
+      "123456",
+      "password",
+      "MyDog@123",
+      "abcdef"
     ],
-    "answer": "There is suspicion of personal gain or corrupt motive",
+    "answer": "MyDog@123",
     "timeLimit": 45
   },
   {
     "id": "q4",
-    "question": "In a disciplinary inquiry, who presents the case on behalf of the administration?",
+    "question": "What does HTTPS stand for?",
     "options": [
-      "Disciplinary Authority",
-      "Inquiry Officer",
-      "Presenting Officer",
-      "Vigilance Officer"
+      "HyperText Transfer Protocol Secure",
+      "High Transfer Text Protocol System",
+      "Hyperlink Text Transfer Program Setup",
+      "None of the above"
     ],
-    "answer": "Presenting Officer",
+    "answer": "HyperText Transfer Protocol Secure",
     "timeLimit": 45
   },
   {
     "id": "q5",
-    "question": "A Railway servant shall be deemed to have been placed under suspension if he has been put in police custody for a period?",
+    "question": "What is ransomware?",
     "options": [
-      "exceeding 24 hours",
-      "exceeding 48 hours",
-      "with immediate effect",
-      "None of these"
+      "Software that encrypts files and demands payment",
+      "A data backup software",
+      "An antivirus program",
+      "A password manager"
     ],
-    "answer": "exceeding 48 hours",
+    "answer": "Software that encrypts files and demands payment",
     "timeLimit": 45
   },
   {
     "id": "q6",
-    "question": "The “Vigilance Awareness Week” is observed every year to commemorate the birth anniversary of:",
+    "question": "Which one of these is a two-factor authentication method?",
     "options": [
-      "Lal Bahadur Shastri",
-      "Sardar Vallabhbhai Patel",
-      "Dr. B.R. Ambedkar",
-      "Rajendra Prasad"
+      "Username and password",
+      "Password and OTP",
+      "Password only",
+      "Fingerprint alone"
     ],
-    "answer": "Sardar Vallabhbhai Patel",
+    "answer": "Password and OTP",
     "timeLimit": 45
   },
   {
     "id": "q7",
-    "question": "Who is Chief Vigilance Officer of Indian Railways?",
+    "question": "What is social engineering in cybersecurity?",
     "options": [
-      "Secretary, Railway Board",
-      "CRB & CEO",
-      "Director (Vig)",
-      "Principal Executive Director (Vig)"
+      "Manipulating people to reveal confidential info",
+      "Designing social media apps",
+      "Encrypting messages",
+      "Creating fake news"
     ],
-    "answer": "Principal Executive Director (Vig)",
+    "answer": "Manipulating people to reveal confidential info",
     "timeLimit": 45
   },
   {
     "id": "q8",
-    "question": "Under the provisions of which article of the Constitution, Railway Servants (D&A) Rules have been made?",
+    "question": "What is malware?",
     "options": [
-      "Article 311",
-      "Article 310",
-      "Article 309",
-      "Article 300"
+      "Software designed to harm systems",
+      "An antivirus",
+      "A browser extension",
+      "A storage device"
     ],
-    "answer": "Article 309",
+    "answer": "Software designed to harm systems",
     "timeLimit": 45
   },
   {
     "id": "q9",
-    "question": "Who is competent to impose the Penalty of compulsory retirement, removal or dismissal from service?",
+    "question": "Which of these is a common sign of a phishing email?",
     "options": [
-      "Controlling officer",
-      "Disciplinary authority",
-      "Appointing authority",
-      "None of these"
+      "Spelling mistakes and urgent requests",
+      "Personalized sender",
+      "High-quality graphics",
+      "Official company logo"
     ],
-    "answer": "Appointing authority",
+    "answer": "Spelling mistakes and urgent requests",
     "timeLimit": 45
   },
   {
     "id": "q10",
-    "question": "An employee can Appeal against the order of penalty imposed by Disciplinary authority within how many days on receipt of the order?",
+    "question": "What does VPN stand for?",
     "options": [
-      "15 days",
-      "30 days",
-      "45 days",
-      "60 days"
+      "Virtual Private Network",
+      "Verified Public Node",
+      "Virtual Proxy Net",
+      "Variable Protection Network"
     ],
-    "answer": "45 days",
+    "answer": "Virtual Private Network",
     "timeLimit": 45
   },
   {
     "id": "q11",
-    "question": "The latest edition of Indian Railways Vigilance Manual (IRVM) is published in which year?",
+    "question": "Which of the following helps detect unauthorized access?",
     "options": [
-      "2015",
-      "2016",
-      "2017",
-      "2018"
+      "Firewall",
+      "IDS (Intrusion Detection System)",
+      "Proxy Server",
+      "Load Balancer"
     ],
-    "answer": "2018",
+    "answer": "IDS (Intrusion Detection System)",
     "timeLimit": 45
   },
   {
     "id": "q12",
-    "question": "Which cyber-attack involves overwhelming a system with traffic to make it unavailable?",
+    "question": "What is encryption?",
     "options": [
-      "Phishing attack",
-      "SQL Injection",
-      "Denial-of-Service (DoS)",
-      "Spyware infection"
+      "Converting readable data into unreadable format",
+      "Deleting files permanently",
+      "Backing up data",
+      "Monitoring network traffic"
     ],
-    "answer": "Denial-of-Service (DoS)",
+    "answer": "Converting readable data into unreadable format",
     "timeLimit": 45
   },
   {
     "id": "q13",
-    "question": "Which Indian organization is primarily responsible for coordinating national cybersecurity policy?",
+    "question": "Which one is a cyber attack aimed at overwhelming a network?",
     "options": [
-      "National Informatics Centre (NIC)",
-      "National Technical Research Organisation (NTRO)",
-      "Indian Computer Emergency Response Team (CERT-In)",
-      "DRDO"
+      "DoS (Denial of Service)",
+      "Phishing",
+      "Trojan Horse",
+      "Spyware"
     ],
-    "answer": "Indian Computer Emergency Response Team (CERT-In)",
+    "answer": "DoS (Denial of Service)",
     "timeLimit": 45
   },
   {
     "id": "q14",
-    "question": "Which of the following is an example of e-Governance initiative in India?",
+    "question": "What is the purpose of antivirus software?",
     "options": [
-      "IRCTC online ticket booking",
-      "Physical Government Files",
-      "Traditional land records in registers",
-      "Paper-based tender system"
+      "To detect and remove malware",
+      "To speed up computer performance",
+      "To encrypt hard drives",
+      "To monitor emails"
     ],
-    "answer": "IRCTC online ticket booking",
+    "answer": "To detect and remove malware",
     "timeLimit": 45
   },
   {
     "id": "q15",
-    "question": "What does a firewall primarily protect against?",
+    "question": "Which of these is a safe online practice?",
     "options": [
-      "Physical theft of devices",
-      "Unauthorized network access",
-      "Power outages",
-      "Software updates"
+      "Clicking unknown links",
+      "Using public Wi-Fi for banking",
+      "Updating software regularly",
+      "Sharing passwords"
     ],
-    "answer": "Unauthorized network access",
+    "answer": "Updating software regularly",
     "timeLimit": 45
   },
   {
     "id": "q16",
-    "question": "The CVC consists of how many members?",
+    "question": "What is spyware?",
     "options": [
-      "One Central Vigilance Commissioner and two Vigilance Commissioners",
-      "One Central Vigilance Commissioner and three Vigilance Commissioners",
-      "Only one Central Vigilance Commissioner and one Vigilance Commissioner",
-      "Two Central Vigilance Commissioners"
+      "Software that secretly monitors user activity",
+      "An encryption tool",
+      "A game application",
+      "A system cleaner"
     ],
-    "answer": "One Central Vigilance Commissioner and two Vigilance Commissioners",
+    "answer": "Software that secretly monitors user activity",
     "timeLimit": 45
   },
   {
     "id": "q17",
-    "question": "What is the full form of PIDPI?",
+    "question": "What is a botnet?",
     "options": [
-      "Protection of Informer and disclosure of Public Interest",
-      "Public Interest Disclosure and Protection of Informers",
-      "Participation of Individuals in Disclosure of Public Interest",
-      "None of these"
+      "A group of infected computers controlled remotely",
+      "A secure chat system",
+      "A network of government websites",
+      "An antivirus database"
     ],
-    "answer": "Public Interest Disclosure and Protection of Informers",
+    "answer": "A group of infected computers controlled remotely",
     "timeLimit": 45
   },
   {
     "id": "q18",
-    "question": "For Group ‘A’ officers of SAG and above, the disciplinary authority is:",
+    "question": "What is the best way to protect against phishing?",
     "options": [
-      "General Manager",
-      "Railway Board",
-      "President of India",
-      "Divisional Railway Manager"
+      "Ignore suspicious emails",
+      "Change system clock",
+      "Install more apps",
+      "Disable antivirus"
     ],
-    "answer": "President of India",
+    "answer": "Ignore suspicious emails",
     "timeLimit": 45
   },
   {
     "id": "q19",
-    "question": "Which of the following is not a penalty under D&A Rules?",
+    "question": "What is multi-factor authentication?",
     "options": [
-      "Censure",
-      "Recorded warning",
-      "Stoppage of privilege passes",
-      "None of these"
+      "Using multiple layers to verify identity",
+      "Using multiple browsers",
+      "Using multi-core systems",
+      "Using multiple passwords"
     ],
-    "answer": "Recorded warning",
+    "answer": "Using multiple layers to verify identity",
     "timeLimit": 45
   },
   {
     "id": "q20",
-    "question": "In terms of Railway Board instructions, normal tenure for a sensitive post is for the period of.",
+    "question": "What is the first step if you suspect a data breach?",
     "options": [
-      "3 years",
-      "4 years",
-      "6 years",
-      "2 years"
+      "Report to IT/security team",
+      "Ignore it",
+      "Reboot the system",
+      "Delete all files"
     ],
-    "answer": "4 years",
+    "answer": "Report to IT/security team",
     "timeLimit": 45
   },
   {
     "id": "q21",
-    "question": "The United Nations Convention against Corruption (UNCAC) came into force in:",
+    "question": "Which one is an example of biometric authentication?",
     "options": [
-      "1996",
-      "2000",
-      "2005",
-      "2010"
+      "Fingerprint scan",
+      "PIN number",
+      "Password",
+      "Captcha"
     ],
-    "answer": "2005",
+    "answer": "Fingerprint scan",
     "timeLimit": 45
   },
   {
     "id": "q22",
-    "question": "KAVACH is:",
+    "question": "Which of the following is NOT malware?",
     "options": [
-      "A high-speed rail engine",
-      "India’s indigenous Train Collision Avoidance System (TCAS)",
-      "A ticketing software for Indian Railways to detect the fraud",
-      "A technology to protect the wild animals from accidents"
+      "Virus",
+      "Worm",
+      "Firewall",
+      "Trojan"
     ],
-    "answer": "India’s indigenous Train Collision Avoidance System (TCAS)",
+    "answer": "Firewall",
     "timeLimit": 45
   },
   {
     "id": "q23",
-    "question": "Which year the Central Vigilance Commission was setup?",
+    "question": "What is the purpose of a digital signature?",
     "options": [
-      "1964",
-      "1984",
-      "1955",
-      "1962"
+      "Verify authenticity and integrity of a document",
+      "Encrypt passwords",
+      "Hide sender identity",
+      "Speed up data transfer"
     ],
-    "answer": "1964",
+    "answer": "Verify authenticity and integrity of a document",
     "timeLimit": 45
   },
   {
     "id": "q24",
-    "question": "Which of the following is not considered a core principle of integrity in public service?",
+    "question": "What should you check before entering credentials on a website?",
     "options": [
-      "Transparency",
-      "Accountability",
-      "Loyalty to individuals",
-      "Impartiality"
+      "HTTPS and correct URL",
+      "Color of the website",
+      "Font style",
+      "Number of ads"
     ],
-    "answer": "Loyalty to individuals",
+    "answer": "HTTPS and correct URL",
     "timeLimit": 45
   },
   {
     "id": "q25",
-    "question": "An official is evaluating tenders in which his close relative has participated. From an integrity perspective, the official should:",
+    "question": "What is ethical hacking?",
     "options": [
-      "Continue but remain unbiased",
-      "Disclose the conflict and recuse himself",
-      "Seek advice only if challenged",
-      "Keep the matter confidential"
+      "Testing systems legally for vulnerabilities",
+      "Breaking into systems for money",
+      "Selling private data",
+      "Hacking competitors"
     ],
-    "answer": "Disclose the conflict and recuse himself",
+    "answer": "Testing systems legally for vulnerabilities",
     "timeLimit": 45
   }
 ]
